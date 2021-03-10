@@ -23,3 +23,5 @@ if (hour >= 23 && hour < 5) {
 } else {
   document.getElementById('greetings').innerText = gree4 + name;
 }
+
+enableDark();
